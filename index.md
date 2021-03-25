@@ -13,8 +13,10 @@ Education
 2018-2022 (expected)
 :   **B.Tech, Information Technology**; R.V.R & J.C COLLEGE OF ENGINEERING.
 
-    
-:   **intermediate, MPC**; Srichaitanya junior college,Gunutr
+2016-2018   
+:   **intermediate, MPC**; Srichaitanya junior college,Gunutr.
+
+
 
   
 
@@ -29,7 +31,7 @@ Technical Skills
 * HTML
 * Git & Git hub
 
-Extra Section, Call it Whatever You Want
+Extra Languages
 ----------------------------------------
 
 * Human Languages:
